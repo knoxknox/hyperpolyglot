@@ -1,7 +1,9 @@
 # Hyperpolyglot
 
-### Programming Languages
 <table>
+  <tr>
+    <th colspan="2" align="left">Programming Languages</th>
+  </tr>
   <tr>
     <td>Interpreted Languages:</td>
     <td><a href="http://hyperpolyglot.org/scripting">JavaScript, PHP, Python, Ruby</a></td>
@@ -70,10 +72,10 @@
     <td>Fortran and APL:</td>
     <td><a href="http://hyperpolyglot.org/fortran">Fortran, APL</a></td>
   </tr>
-</table>
 
-### Programming Tools
-<table>
+  <tr>
+    <th colspan="2" align="left">Programming Tools</th>
+  </tr>
   <tr>
     <td>Unix Shells:</td>
     <td><a href="http://hyperpolyglot.org/unix-shells">Bash, Fish, Ksh, Tcsh, Zsh</a></td>
